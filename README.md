@@ -62,8 +62,8 @@ The best-performing model achieved high accuracy and balanced precision-recall s
 ## 👨‍💻 Author
 **Ayush Pandey**  
 B.Tech CSE | Bennett University  
-📧 [ayushpandey@example.com](mailto:ayushpandey@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/)
+📧 [pandeyayush.0005@gmail.com](mailto:pandeyayush.0005@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ayushpandey20/)
 
 ---
 
